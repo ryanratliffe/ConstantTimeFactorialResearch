@@ -1,0 +1,4 @@
+the number of trailing zeros is: 9
+This is the calculated operation time: 0 days, 0hours, 0 minutes, 0 seconds, and 0miliseconds.
+this is the factorial of 11 equals: 265790267296391946810949632000000000
+

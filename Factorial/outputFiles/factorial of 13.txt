@@ -1,0 +1,4 @@
+the number of trailing zeros is: 13
+This is the calculated operation time: 0 days, 0hours, 0 minutes, 0 seconds, and 0miliseconds.
+this is the factorial of 13 equals: 792786697595796795607377086400871488552960000000000000
+

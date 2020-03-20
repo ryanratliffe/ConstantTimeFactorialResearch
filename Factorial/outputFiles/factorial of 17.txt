@@ -1,0 +1,4 @@
+the number of trailing zeros is: 24
+This is the calculated operation time: 0 days, 0hours, 0 minutes, 0 seconds, and 0miliseconds.
+this is the factorial of 17 equals: 672593129192865130334217631473916658864122332882577979675277211683839238972899328000000000000000000000000
+

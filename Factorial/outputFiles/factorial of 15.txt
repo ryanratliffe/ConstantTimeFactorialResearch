@@ -1,0 +1,4 @@
+the number of trailing zeros is: 18
+This is the calculated operation time: 0 days, 0hours, 0 minutes, 0 seconds, and 0miliseconds.
+this is the factorial of 15 equals: 90378331112371142262979521568630736335023247731599748366336000000000000000000
+

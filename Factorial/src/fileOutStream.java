@@ -5,7 +5,7 @@ import java.math.BigInteger;
 
 public class fileOutStream {
 	public static void fileOutStream(BigInteger tot, long x, double init, double post) throws FileNotFoundException {
-		PrintStream o = new PrintStream(new File("factorial of "+x+".txt")); 
+		PrintStream o = new PrintStream(new File("C:\\Users\\ryano\\Desktop\\GITHUB\\ConstantTimeFactorialResearch\\Factorial\\outputfiles\\factorial of "+x+".txt")); 
 		double time =(post - init);
 		int days = (int) (time / 86400000);
 		time = time - (days * 86400000);
@@ -20,11 +20,11 @@ public class fileOutStream {
         PrintStream console = System.out; 
         System.setOut(o);
         
-        System.out.print("this is the factorial of " + x +" equals: ");
-        System.out.println(tot+"\n");
         System.out.println("the number of trailing zeros is: "+ Factorial.zeros);
         System.out.print("This is the calculated operation time: ");    
         System.out.println(days +" days, " + hour + "hours, " + min + " minutes, " + sec+ " seconds, and "+ mili + "miliseconds.");
+        System.out.print("this is the factorial of " + x +" equals: ");
+        System.out.println(tot+"\n");
 
         System.setOut(console);         
 	}

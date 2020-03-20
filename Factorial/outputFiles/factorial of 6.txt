@@ -1,0 +1,4 @@
+the number of trailing zeros is: 2
+This is the calculated operation time: 0 days, 0hours, 0 minutes, 0 seconds, and 0miliseconds.
+this is the factorial of 6 equals: 24883200
+
